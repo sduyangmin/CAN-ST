@@ -12,6 +12,7 @@ CAN-ST is a general, model-agnostic normalization method for spatio-temporal dat
 ## 🚀 Quick Start
 
 This repo is built on the pioneer works. We appreciate the following GitHub repo a lot for their valuable code base and datasets. For detailed dataset preparation and evaluation protocols, please refer to it.
+
 [**ST-OOD Benckmark Repo**](https://github.com/Dreamzz5/ST-OOD)
 
 [**ST-OOD Benckmark Paper**](https://arxiv.org/abs/2410.04740)
