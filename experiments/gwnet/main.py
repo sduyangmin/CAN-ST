@@ -19,9 +19,6 @@ from src.utils.metrics import masked_mae
 from src.utils.logging import get_logger
 from src.models.Model import Model
 from models.norm.CAN_ST import CAN_ST
-from src.models.norm.ST_Norm import STNorm
-from src.models.norm.SAN import SAN
-from src.models.norm.DishTS import DishTS
 
 os.environ['CUDA_VISIBLE_DEVICES'] = '2'
 
